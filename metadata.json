@@ -1,0 +1,6 @@
+{
+  "name": "智慧海象船班搭乘指南與停航通知 App",
+  "description": "提供即時海況觀測、舒適度評估與交通部TDX船班狀態，給旅客最精準的防暈、晃動及停航搭乘指南。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
